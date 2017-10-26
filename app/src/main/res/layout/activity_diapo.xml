@@ -44,14 +44,12 @@
             android:layout_weight="20"
             android:text="&#62;&#62;"
             android:textColor="#FFF" />
-
         <!--<ImageButton-->
         <!--android:layout_width="0dp"-->
         <!--android:layout_weight="20"-->
         <!--android:layout_height="wrap_content"-->
         <!--android:id="@+id/buttonNext"-->
         <!--app:srcCompat="@android:drawable/ic_media_next"/>-->
-
         <Button
             android:id="@+id/buttonLast"
             android:layout_width="0dp"
